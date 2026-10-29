@@ -1,0 +1,43 @@
+
+<div class="hero">
+  <nav>
+    <div class="logo">VEXORA<span>.</span></div>
+    <a href="#about">ABOUT ME</a>
+  </nav>
+
+<p class="my-name">RAJU CHAUHAN</p>
+
+<div class="my-photo">
+  <img src="https://placehold.co/240x240/071426/00c8ff?text=RAJU" alt="Raju Chauhan profile photo">
+</div>
+
+  <main>
+    <p class="tag">WELCOME TO MY WORLD</p>
+    <h1>HELLO, I'M<br><span>VEXORA.</span></h1>
+    <p class="desc">
+      Dream big. Learn every day.
+      Build something extraordinary.
+    </p>
+    <a class="btn" href="#about">EXPLORE MY WORLD ↗</a>
+  </main>
+
+  <section id="about">
+    <p class="tag">01 — ABOUT ME</p>
+    <h2>Building my own future.</h2>
+    <p>This is my personal space on the internet.</p>
+  </section>
+
+<section id="contact">
+  <p class="tag">02 — CONTACT</p>
+  <h2>Let's Connect.</h2>
+  <p class="contact-text">
+    Thanks for visiting my personal website.
+  </p>
+  <a class="contact-btn"
+     href="mailto:">
+    CONTACT ME ↗
+  </a>
+</section>
+
+  <footer>© 2026 VEXORA — MY PERSONAL WEBSITE</footer>
+</div>
